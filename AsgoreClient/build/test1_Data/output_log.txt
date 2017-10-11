@@ -1,0 +1,46 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\DemonicLP\Documents\GitHub\theNewGame\AsgoreClient\build\test1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\DemonicLP\Documents\GitHub\theNewGame\AsgoreClient\build\test1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\DemonicLP\Documents\GitHub\theNewGame\AsgoreClient\build\test1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\DemonicLP\Documents\GitHub\theNewGame\AsgoreClient\build\test1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\DemonicLP\Documents\GitHub\theNewGame\AsgoreClient\build\test1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\DemonicLP\Documents\GitHub\theNewGame\AsgoreClient\build\test1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\DemonicLP\Documents\GitHub\theNewGame\AsgoreClient\build\test1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\DemonicLP\Documents\GitHub\theNewGame\AsgoreClient\build\test1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\DemonicLP\Documents\GitHub\theNewGame\AsgoreClient\build\test1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\DemonicLP\Documents\GitHub\theNewGame\AsgoreClient\build\test1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\DemonicLP\Documents\GitHub\theNewGame\AsgoreClient\build\test1_Data\Managed\DarkRiftAPI.dll (this message is harmless)
+Loading C:\Users\DemonicLP\Documents\GitHub\theNewGame\AsgoreClient\build\test1_Data\Managed\DarkRiftAPI.dll into Unity Child Domain
+Platform assembly: C:\Users\DemonicLP\Documents\GitHub\theNewGame\AsgoreClient\build\test1_Data\Managed\Transmission.dll (this message is harmless)
+Loading C:\Users\DemonicLP\Documents\GitHub\theNewGame\AsgoreClient\build\test1_Data\Managed\Transmission.dll into Unity Child Domain
+- Completed reload, in  0.030 seconds
+Platform assembly: C:\Users\DemonicLP\Documents\GitHub\theNewGame\AsgoreClient\build\test1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\DemonicLP\Documents\GitHub\theNewGame\AsgoreClient\build\test1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.761705 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.555719 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.599039 ms (FindLiveObjects: 0.034133 ms CreateObjectMapping: 0.027306 ms MarkObjects: 0.529919 ms  DeleteObjects: 0.006826 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.336424 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 423.
+Total: 0.959572 ms (FindLiveObjects: 0.115199 ms CreateObjectMapping: 0.062293 ms MarkObjects: 0.770986 ms  DeleteObjects: 0.008533 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 101c -> priority: 1 
+  Thread -> id: 25cc -> priority: 1 
